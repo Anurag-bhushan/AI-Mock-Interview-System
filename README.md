@@ -26,7 +26,7 @@ Follow these steps to set up the project locally.
 ### 1. Clone the repository
 Navigate to the root directory of the project in your terminal.
 ```bash
-cd 3.interviewIQ
+cd AI-Mock-Interview-System
 ```
 
 ### 2. Set up Environment Variables
